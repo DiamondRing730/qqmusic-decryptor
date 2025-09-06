@@ -3,6 +3,7 @@
 本项目提供一套基于 Python 的自动化脚本，用于批量解密 QQ 音乐加密音频文件（`.mflac`），并自动补全歌曲的元信息（包括歌手、专辑、封面、曲目顺序等），最终输出带完整标签的 FLAC 音频文件。
 
 ---
+最新版是dist，解密和标签补全合并了，并添加driver版本检测机制
 
 ## 📦 功能介绍
 
@@ -73,4 +74,3 @@ qqmusic-decryptor/
 
 * GitHub: [DiamondRing730](https://github.com/DiamondRing730)
 ---
-感谢使用，祝你解码顺利！🎵
